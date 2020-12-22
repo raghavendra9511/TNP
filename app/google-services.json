@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652926145673",
+    "firebase_url": "https://tnnp-662ef.firebaseio.com",
+    "project_id": "tnnp-662ef",
+    "storage_bucket": "tnnp-662ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652926145673:android:18615b48fcf53664a7a258",
+        "android_client_info": {
+          "package_name": "com.example.tnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652926145673-6qal3abin1lce67rv6t6j4n7bi66ckfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_7TOySnmQ1W5Sex8bcEgDXAnj-iSz3mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652926145673-6qal3abin1lce67rv6t6j4n7bi66ckfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

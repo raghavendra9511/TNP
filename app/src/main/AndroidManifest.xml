@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tnp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TNP">
+        <activity android:name=".Activities.top"></activity>
+        <activity android:name=".Activities.recruters" />
+        <activity android:name=".Activities.capgemini" />
+        <activity android:name=".Activities.ltiinfo" />
+        <activity android:name=".Activities.cogniz" />
+        <activity android:name=".Activities.infostretch" />
+        <activity android:name=".Activities.mahi" />
+        <activity android:name=".Activities.infosyss" />
+        <activity android:name=".Activities.tcsinfo" />
+        <activity android:name=".Activities.virtusainfo" />
+        <activity android:name=".Activities.myapplication" />
+        <activity android:name=".Activities.opportunities" />
+        <activity android:name=".Activities.tab" />
+        <activity android:name=".Activities.calender" />
+        <activity android:name=".Activities.viewprofile" />
+        <activity android:name=".Activities.updateprofile" />
+        <activity android:name=".Activities.selectchangeview" />
+        <activity android:name=".Activities.Login_activity" />
+        <activity android:name=".Activities.Home_activity" />
+        <activity android:name=".Activities.Register_activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.top">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aldrich"
+        android:gravity="center"
+        android:text="Mrs. Jasmita Kaur
+             Dean Placements  "
+        android:textSize="30sp"></TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/j"></ImageView>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="370dp"
+        android:layout_height="403dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/aldrich"
+        android:gravity="center"
+        android:text="At the outset I, Jasmita Kaur, Dean Placements, Dr. D. Y. Patil Educational Complex, Akurdi, Pune welcome you to the flag ship college of Dr. D. Y. Patil Prathisthan. The Training and Placement Cell is one of the integral part of our college.\n
+        Training and Placement activities are organized throughout the year with a view to prepare the students to appear the campus recruitment process with confidence.\n\n\n\n\n
+        Contact no: 9850042835\n
+ Mail id:placements@dypcoeakurdi.ac.in"
+        android:textSize="18sp" />
+</LinearLayout>
